@@ -36,6 +36,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "CoordConverter": {
+      "latest": "v1.0",
+      "released": "2026-07-27",
+      "notes": "· 수정\n   - NaN 직렬화를 라우트별이 아니라 직렬화 계층에서 막는다\n   - 좌표계가 안 맞으면 값과 함께 사유를 낸다 + NaN 직렬화 차단\n   - 이차검증 GAP 해소 — CI ruff 게이트 green + geographiclib 주석\n   - mkdocs --strict 상시 실패 해소 — docs 배포 파이프라인 복구\n   - 스크립트·패키징·문서 정합 일괄 (자가진단 P3)\n   - 토스트 좌표계·eviction 프리즈·죽은 레지스트리 + 호버 stale baseline\n   - 공백행 0-좌표 손상 + Validate 대비 + gv-utils XSS + 죽은 chart.js\n   - 타입 오염 세션이 부트를 벽돌내던 문제 + 언어 설정 미복원\n   - 존재하지 않는 'pip install proj-data' 경로 제거\n· 문서\n   - CHANGELOG [Unreleased] — post-4.3.0 감사 웨이브 32커밋 요약\n· 그 외 28건의 개선·수정",
+      "release_url": "https://github.com/geohyub/CoordConverter-releases/releases/tag/v1.0",
+      "file": "CoordConverter-1.0-win64.zip",
+      "size": 57347282,
+      "sha256": "8f554ea380d0485e2b8dacbde449d83cfd5ea4a332d410604771e219e51f9b17",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
