@@ -72,6 +72,18 @@
       "kind": "installer",
       "mandatory": false,
       "history": []
+    },
+    "MBESPerfExport": {
+      "latest": "v1.0.0",
+      "released": "2026-07-27",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/MBESPerfExport-releases/releases/tag/v1.0.0",
+      "file": "mbes_perf_export-1.0.0-py3-none-any.whl",
+      "size": 36498,
+      "sha256": "84b60605bf00bebdfe5e3e433ec8db5579ddb89172a1e8fe70d960d9cb9bb5ac",
+      "kind": "installer",
+      "mandatory": false,
+      "history": []
     }
   }
 }
