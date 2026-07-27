@@ -174,6 +174,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "MBESQC": {
+      "latest": "v2.0.0",
+      "released": "2026-07-27",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/MBESQC-releases/releases/tag/v2.0.0",
+      "file": "MBESQC-2.0.0-win64.zip",
+      "size": 149207099,
+      "sha256": "ee39bc138e18c77d7fb3eaec0b5d9eacd4fdf99be99b4492f974c481961d5252",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
