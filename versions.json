@@ -150,6 +150,18 @@
       "kind": "installer",
       "mandatory": false,
       "history": []
+    },
+    "MagQC": {
+      "latest": "v3.0.0",
+      "released": "2026-07-27",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/MagQC-releases/releases/tag/v3.0.0",
+      "file": "MagQC-3.0.0-win64.zip",
+      "size": 111566294,
+      "sha256": "d8d6acf27158daae5ab15acc6d1a23d9935df634a8665add68dd8c6243c508b0",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
