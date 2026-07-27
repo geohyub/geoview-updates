@@ -120,6 +120,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "SGYCompare": {
+      "latest": "v1.0.0",
+      "released": "2026-07-27",
+      "notes": "· 새 기능\n   - unify in-app chrome brand to boot-splash domain hue (option B)\n   - ConcordanceSeam entry animation on result load (reduced-motion safe)\n   - concordance_seam SignatureA11yMixin 채택 (_shared mixin · 근접 히트 가드)\n   - Confrontation Bench — Concordance Seam hero + Identity Rail + LINK+\n   - Concordance Seam signature widget — new paint (proposal §3 전수)\n   - split widgets.py 796 monolith — theme/inputs/cards/tables (격리)\n   - Concordance Indigo brand token (16th hue · dark-only)\n· 수정\n   - keep a11y hover overlay alive in ConcordanceSeam\n   - hardcoded secret_key fallback → load_secret_key helper\n· 문서\n   - Geoview 테마 사용자 매뉴얼 추가 (docs/USER_MANUAL_ko.docx)\n· 그 외 12건의 개선·수정",
+      "release_url": "https://github.com/geohyub/SGYCompare-releases/releases/tag/v1.0.0",
+      "file": "SGYCompare-1.0.0-win64.zip",
+      "size": 87963356,
+      "sha256": "f6b8a15fabf293c2bbeab2631346431d1faf1ae3c6e342e0bed5b136a8994dc5",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
