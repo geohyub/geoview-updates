@@ -1,4 +1,17 @@
 {
-  "updated": "",
-  "apps": {}
+  "updated": "2026-07-27",
+  "apps": {
+    "TideBedPy": {
+      "latest": "v3.1.0",
+      "released": "2026-07-27",
+      "notes": "· 새 기능\n   - --batch-min-delivery — opt-in 배치 완결성 게이트 (루프 23차)\n· 수정\n   - 표지가 근거 없는 유효율을 인쇄하던 3건 — 빈 실행·불일치·None (루프 27차)\n   - 0 cm 보고 무결성 + nan 크래시 구멍 — B2 는 의미 변경 대신 가시화 (루프 26차)\n   - 짧은 날을 성공으로 보고하던 문제 — totalCount 대조 + 짧은 페이지 종료 (루프 25차)\n   - 미감사 수집 경로 무결성 4건 + 감사가 찾은 테스트 공백 (루프 24차)\n   - 데스크톱 shp 무결성 누수 + 구조상 통과 2건 + 배치 집계 (루프 21차)\n   - 루프 19 가 만든 회귀 + 감사 확인분, 그리고 내가 준 근거 정정 (루프 20차)\n   - 결측 판정을 순위 통계에서 재현 횟수로 — 조작 납품 2건 차단 (루프 18차)\n· 변경\n   - tidy(main+tests): 루프 21 집중 감사 후 정리 — .tid.detail 계약 고정 + 정확성 3건 (루프 22차)\n   - change(core): 관측 간격이 보간 한계를 넘는 기준항은 거부한다 — 가드 재설계 종결 (루프 19차)\n· 그 외 24건의 개선·수정",
+      "release_url": "https://github.com/geohyub/TideBedPy-releases/releases/tag/v3.1.0",
+      "file": "TideBedPy-3.1.0-win64.zip",
+      "size": 177468365,
+      "sha256": "4238aff5af356f1d4afdf8c10a88b1673eabfa96b7c6e744407c5ca0ef8244c9",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
+    }
+  }
 }
