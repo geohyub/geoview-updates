@@ -24,6 +24,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "GeoViewCalculatorPro": {
+      "latest": "v4.0",
+      "released": "2026-07-27",
+      "notes": "· 새 기능\n   - add plotting-table module\n   - 입력/결과/상태 UI 라벨 전역 ko 정합 (~250키)\n   - 잔존 차트 범례 ko 정합 (Horizontal Layback 키 + Target/Current sep./Cable/Baseline 패턴)\n   - 전역 차트/테이블/범례/결과 데이터 라벨 ko 정합\n· 수정\n   - deep-audit P3 robustness/hygiene — nan/inf 표시 가드 + project 로드 검증 + gitignore\n   - deep-audit P1/correctness — coordinates stale-value 버그 + 수식 카드 정합 + thousands separator\n   - best-effort 경로 에러 삼킴에 로깅 추가\n   - formulas 도메인 가드 + excel inf/nan + UI 색 토큰화 + SSS along-track 연속화\n   - P0 Delete 크래시 + inf/nan 시스템 가드 + P1 계산 오값 5건\n· 문서\n   - Geoview 테마 사용자 매뉴얼 추가 (docs/USER_MANUAL_ko.docx)\n· 그 외 15건의 개선·수정",
+      "release_url": "https://github.com/geohyub/GeoViewCalculatorPro-releases/releases/tag/v4.0",
+      "file": "GeoViewCalculatorPro-4.0-win64.zip",
+      "size": 93197697,
+      "sha256": "f69bcde9fc9a9cb4f5bde5bebefd30b1246f993a116a3cd4851af907e2484547",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
