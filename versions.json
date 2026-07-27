@@ -108,6 +108,18 @@
       "kind": "installer",
       "mandatory": false,
       "history": []
+    },
+    "TidalWorks": {
+      "latest": "v1.0",
+      "released": "2026-07-27",
+      "notes": "· 새 기능\n   - add reimagine app entry\n· 수정\n   - 커스텀 페인트 위젯의 QColor(rgba() 문자열) → 라이트 테마 검정 블롭 해소\n   - 조위 datum 기둥 라벨 겹침 해소 — 저조면(MLW/MLWS/DL) 근접 시 가독성\n   - raw QMessageBox 16곳 → 테마 ConfirmDialog 통일 + 조석패널 재진입 안내\n   - 진행벡터 탭 키워드 매칭 + observation 카운트 천단위 콤마 (minor x2)\n   - Nortek dt=0 OverflowError 가드 + RBR 무수온 가정수온 (minor x2)\n· 구조 개선\n   - 계류·선박 분석 패널 밀도 완화 — 고급설정 접기·슬라이더→필드·KPI 제거\n· 변경\n   - polish(ui): QC 프리뷰 차트 스타일 정돈 — 실제 제목·옅은 그리드·부드러운 축\n   - harden(ui): datum 라벨 겹침 해소에 하한 클램프 추가 — minibar 침범 방지\n   - harden(io): RBR 가정 수온을 메타데이터에 노출 — 무음 가정 방지(Iron Rule 5)\n· 그 외 29건의 개선·수정",
+      "release_url": "https://github.com/geohyub/TidalWorks-releases/releases/tag/v1.0",
+      "file": "TidalWorks-1.0-win64.zip",
+      "size": 156202247,
+      "sha256": "c4dc9b50de5ca6680a910cdbc8c21a4971bd9cf093c687b918d1afd7166afd95",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
