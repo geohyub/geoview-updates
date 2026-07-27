@@ -84,6 +84,18 @@
       "kind": "installer",
       "mandatory": false,
       "history": []
+    },
+    "CATZOCAssigner": {
+      "latest": "v0.1.0",
+      "released": "2026-07-27",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/CATZOCAssigner-releases/releases/tag/v0.1.0",
+      "file": "catzoc_assigner-0.1.0-py3-none-any.whl",
+      "size": 16176,
+      "sha256": "f42d64ca514b9fc3a1ba874d8f66fa23a631dcdc1d91c8fa53d2fa7c2562b1d9",
+      "kind": "installer",
+      "mandatory": false,
+      "history": []
     }
   }
 }
