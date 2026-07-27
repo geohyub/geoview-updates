@@ -186,6 +186,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "NavQC": {
+      "latest": "v3.0.0",
+      "released": "2026-07-27",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/NavQC-releases/releases/tag/v3.0.0",
+      "file": "NavQC-3.0.0-win64.zip",
+      "size": 264257146,
+      "sha256": "7932c4115c9dd1bd6c3d7fd564f713e3a98e19c9805869b566dfb593fd825c9a",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
