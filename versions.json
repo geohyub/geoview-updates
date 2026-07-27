@@ -96,6 +96,18 @@
       "kind": "installer",
       "mandatory": false,
       "history": []
+    },
+    "TideGuard": {
+      "latest": "v0.1.0",
+      "released": "2026-07-27",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/TideGuard-releases/releases/tag/v0.1.0",
+      "file": "tideguard-0.1.0-py3-none-any.whl",
+      "size": 20797,
+      "sha256": "bb103b47a3e7ed988144bb2f63c62d53fae53798ea811d4478287fa75403a5ba",
+      "kind": "installer",
+      "mandatory": false,
+      "history": []
     }
   }
 }
