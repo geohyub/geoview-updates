@@ -60,6 +60,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "segylint": {
+      "latest": "v0.1.0",
+      "released": "2026-07-27",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/segylint-releases/releases/tag/v0.1.0",
+      "file": "segylint-0.1.0-py3-none-any.whl",
+      "size": 13062,
+      "sha256": "d9599680dd5ecf7a797d8c5469cc0f92b868880c4cc60308c9b1f572a47fbd16",
+      "kind": "installer",
+      "mandatory": false,
+      "history": []
     }
   }
 }
