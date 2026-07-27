@@ -69,7 +69,7 @@
       "file": "segylint-0.1.0-py3-none-any.whl",
       "size": 13062,
       "sha256": "d9599680dd5ecf7a797d8c5469cc0f92b868880c4cc60308c9b1f572a47fbd16",
-      "kind": "installer",
+      "kind": "wheel",
       "mandatory": false,
       "history": []
     },
@@ -81,7 +81,7 @@
       "file": "mbes_perf_export-1.0.0-py3-none-any.whl",
       "size": 36498,
       "sha256": "84b60605bf00bebdfe5e3e433ec8db5579ddb89172a1e8fe70d960d9cb9bb5ac",
-      "kind": "installer",
+      "kind": "wheel",
       "mandatory": false,
       "history": []
     },
@@ -93,7 +93,7 @@
       "file": "catzoc_assigner-0.1.0-py3-none-any.whl",
       "size": 16176,
       "sha256": "f42d64ca514b9fc3a1ba874d8f66fa23a631dcdc1d91c8fa53d2fa7c2562b1d9",
-      "kind": "installer",
+      "kind": "wheel",
       "mandatory": false,
       "history": []
     },
@@ -105,7 +105,7 @@
       "file": "tideguard-0.1.0-py3-none-any.whl",
       "size": 20797,
       "sha256": "bb103b47a3e7ed988144bb2f63c62d53fae53798ea811d4478287fa75403a5ba",
-      "kind": "installer",
+      "kind": "wheel",
       "mandatory": false,
       "history": []
     },
