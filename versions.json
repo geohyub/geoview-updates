@@ -246,6 +246,18 @@
       "kind": "installer",
       "mandatory": false,
       "history": []
+    },
+    "CARISBoresight": {
+      "latest": "v1.0.0",
+      "released": "2026-07-27",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/CARISBoresight-releases/releases/tag/v1.0.0",
+      "file": "CARISBoresight.exe",
+      "size": 258158993,
+      "sha256": "c1bcbbf24d3eb0c556a63d9562457674a2af23246b6fdd78804bd28aff2f925d",
+      "kind": "installer",
+      "mandatory": false,
+      "history": []
     }
   }
 }
