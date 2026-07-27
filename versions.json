@@ -48,6 +48,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "P190NavConverter": {
+      "latest": "v1.0",
+      "released": "2026-07-27",
+      "notes": "· 새 기능\n   - webview-based desktop UI with bridge and smoke test\n   - convert self-verifies its output is P1/90-compliant\n· 수정\n   - compare 응답에 판정어가 없어 창구마다 다른 말을 하던 문제\n   - 데스크톱·웹뷰가 비교 불가를 안 알리고 등급어를 그대로 보여주던 문제\n   - 무관한 두 P1/90 을 비교해도 정밀해 보이는 숫자만 내던 문제\n   - disable Compare CTA until both P190 files are selected\n   - stop swallowing errors + confirm irreversible delete + friendly compare error\n· 구조 개선\n   - centralize app accent colours into desktop/theme.py\n· 문서\n   - Geoview 테마 사용자 매뉴얼 추가 (docs/USER_MANUAL_ko.docx)\n· 변경\n   - release: 1.18.0 — commercial-readiness hardening (25 audit fixes + self-verify)\n· 그 외 27건의 개선·수정",
+      "release_url": "https://github.com/geohyub/P190NavConverter-releases/releases/tag/v1.0",
+      "file": "P190NavConverter-1.0-win64.zip",
+      "size": 294237920,
+      "sha256": "0ea2b51143090169cf7e5652f34ed478ab7a490f0cba9049ca3b1161c95ad3d7",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
