@@ -132,6 +132,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "MagPrep": {
+      "latest": "v1.0.0",
+      "released": "2026-07-27",
+      "notes": "· 새 기능\n   - Track & Diurnal view (Band C #6 design)\n· 수정\n   - 활동로그가 스킵 사유를 남긴다 — 영구 기록의 침묵\n   - 반입 스킵이 사용자에게 도달하지 않던 마지막 구간 — 화면까지\n   - 폴더 반입이 로그 지점에 도달조차 하지 않았다\n   - 반입 스킵을 조용히 하지 않는다\n   - 모든 G-882 파일이 조용히 스킵되고 있었다 — 포맷 이름 드리프트\n· 구조 개선\n   - parsers/line_splitter/nmea_repair thin wrapper 전환\n   - nmea_repair.py 분리 (parsers.py L663-895 → 신규 모듈)\n   - server.py 슬림 (1042 → 711 LOC)\n· 문서\n   - Geoview 테마 사용자 매뉴얼 추가 (docs/USER_MANUAL_ko.docx)\n· 그 외 15건의 개선·수정",
+      "release_url": "https://github.com/geohyub/MagPrep-releases/releases/tag/v1.0.0",
+      "file": "MagPrep-Setup-1.0.0-x64.exe",
+      "size": 174289690,
+      "sha256": "ebf84df13cd1e8c15812373738959524d6ed5b0df217a7f2ee2a6235537b1517",
+      "kind": "installer",
+      "mandatory": false,
+      "history": []
     }
   }
 }
