@@ -198,6 +198,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "SonarQC": {
+      "latest": "v2.0.0",
+      "released": "2026-07-27",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/SonarQC-releases/releases/tag/v2.0.0",
+      "file": "SonarQC-2.0.0-win64.zip",
+      "size": 308679237,
+      "sha256": "6791f9b271f9cd93f23e25954f1c20d273a29402732f2dc9674c7c37f5a6cad5",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
