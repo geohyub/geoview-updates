@@ -162,6 +162,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "SeismicQC": {
+      "latest": "v4.0.0",
+      "released": "2026-07-27",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/SeismicQC-releases/releases/tag/v4.0.0",
+      "file": "SeismicQC-4.0.0-win64.zip",
+      "size": 154473529,
+      "sha256": "dacee92c09e2d55d7246e0ff7334d1c6fafe544d326d80e07ae6983f45a3f299",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
