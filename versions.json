@@ -260,16 +260,22 @@
       "history": []
     },
     "PortDetector": {
-      "latest": "v1.0.0",
+      "latest": "v1.0.1",
       "released": "2026-07-27",
       "notes": "",
-      "release_url": "https://github.com/geohyub/PortDetector-releases/releases/tag/v1.0.0",
-      "file": "PortDetector-1.0.0-win64.zip",
-      "size": 566,
-      "sha256": "b074d034e301f0994736ac8a1bba7aea8288ae4b8b4568b7e2c5ae0f9172a410",
-      "kind": "zip",
+      "release_url": "https://github.com/geohyub/PortDetector-releases/releases/tag/v1.0.1",
+      "file": "PortDetector.exe",
+      "size": 82976021,
+      "sha256": "7a1bbc81cf8907cef70074edf58d3436c8e698b04cb42fab5387f3a9405392b9",
+      "kind": "installer",
       "mandatory": false,
-      "history": []
+      "history": [
+        {
+          "version": "v1.0.0",
+          "date": "2026-07-27",
+          "notes": ""
+        }
+      ]
     }
   }
 }
