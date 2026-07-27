@@ -234,6 +234,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "SVPBatchViewer": {
+      "latest": "v1.0.0",
+      "released": "2026-07-27",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/SVPBatchViewer-releases/releases/tag/v1.0.0",
+      "file": "SVP_Batch_Viewer_v0.1.1.exe",
+      "size": 302237083,
+      "sha256": "746810bc306b34030c8e7333c56ebcb325ba7db9131913d3ee47fd341e507b83",
+      "kind": "installer",
+      "mandatory": false,
+      "history": []
     }
   }
 }
