@@ -360,6 +360,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "SeismicProcessor": {
+      "latest": "v1.0.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/SeismicProcessor-releases/releases/tag/v1.0.0",
+      "file": "SeismicProcessor-1.0.0-win64.zip",
+      "size": 290174281,
+      "sha256": "203df983dfd4717fce86d89f3c9b52dc804ca8e5dbf5196ffb2cb8f76f5bb1bc",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
