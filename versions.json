@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27",
+  "updated": "2026-07-29",
   "apps": {
     "TideBedPy": {
       "latest": "v3.1.0",
@@ -276,6 +276,18 @@
           "notes": ""
         }
       ]
+    },
+    "MosaicEye": {
+      "latest": "v0.1.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/MosaicEye-releases/releases/tag/v0.1.0",
+      "file": "mosaic_eye-0.1.0-py3-none-any.whl",
+      "size": 9340,
+      "sha256": "b9e14843f78aa3a17ea544151877eb974d0189c38774f8cf715d2bdd01692f80",
+      "kind": "wheel",
+      "mandatory": false,
+      "history": []
     }
   }
 }
