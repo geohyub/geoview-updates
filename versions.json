@@ -372,6 +372,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "GTQC": {
+      "latest": "v0.1.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/GTQC-releases/releases/tag/v0.1.0",
+      "file": "GTQC-0.1.0-win64.zip",
+      "size": 85711980,
+      "sha256": "b0502714393b51d7c3da9e287eae39ad9f6b1f88944a7cda13324de1ae15c605",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
