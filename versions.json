@@ -300,6 +300,18 @@
       "kind": "wheel",
       "mandatory": false,
       "history": []
+    },
+    "DeliveryGuard": {
+      "latest": "v0.1.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/DeliveryGuard-releases/releases/tag/v0.1.0",
+      "file": "delivery_guard-0.1.0-py3-none-any.whl",
+      "size": 12025,
+      "sha256": "3a6e30596a0db1ed27410475517654a749a3ee5913a66b0042febce3926ac898",
+      "kind": "wheel",
+      "mandatory": false,
+      "history": []
     }
   }
 }
