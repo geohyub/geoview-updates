@@ -324,6 +324,18 @@
       "kind": "wheel",
       "mandatory": false,
       "history": []
+    },
+    "MagEmbed": {
+      "latest": "v0.1.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/MagEmbed-releases/releases/tag/v0.1.0",
+      "file": "magembed-0.1.0-py3-none-any.whl",
+      "size": 8825,
+      "sha256": "e62bdf6ae92dc2f04212df6b5e007bb1b6ea4c0fc775cb6fc6ce79dfb0d16353",
+      "kind": "wheel",
+      "mandatory": false,
+      "history": []
     }
   }
 }
