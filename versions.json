@@ -312,6 +312,18 @@
       "kind": "wheel",
       "mandatory": false,
       "history": []
+    },
+    "DeliveryBinder": {
+      "latest": "v0.1.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/DeliveryBinder-releases/releases/tag/v0.1.0",
+      "file": "delivery_binder-0.1.0-py3-none-any.whl",
+      "size": 10542,
+      "sha256": "ab486407825759e21f52951857b77b5d9bf1f2dda65c48edccae5181a59ff4cc",
+      "kind": "wheel",
+      "mandatory": false,
+      "history": []
     }
   }
 }
