@@ -288,6 +288,18 @@
       "kind": "wheel",
       "mandatory": false,
       "history": []
+    },
+    "QCMemory": {
+      "latest": "v0.1.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/QCMemory-releases/releases/tag/v0.1.0",
+      "file": "qc_memory-0.1.0-py3-none-any.whl",
+      "size": 19138,
+      "sha256": "e82aaa1c77ad9105bebf4af99c22f2c852bc62b392d5327a3da2c67b567a4e89",
+      "kind": "wheel",
+      "mandatory": false,
+      "history": []
     }
   }
 }
