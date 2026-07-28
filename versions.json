@@ -336,6 +336,18 @@
       "kind": "wheel",
       "mandatory": false,
       "history": []
+    },
+    "DocTemplates": {
+      "latest": "v0.1.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/DocTemplates-releases/releases/tag/v0.1.0",
+      "file": "geoview_doc_templates-0.1.0-py3-none-any.whl",
+      "size": 82075,
+      "sha256": "f7115e2782308c96bb16f882731f60954590026f69d9b649e04fef4fb20a67db",
+      "kind": "wheel",
+      "mandatory": false,
+      "history": []
     }
   }
 }
