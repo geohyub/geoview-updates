@@ -348,6 +348,18 @@
       "kind": "wheel",
       "mandatory": false,
       "history": []
+    },
+    "MagProc": {
+      "latest": "v1.0.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/MagProc-releases/releases/tag/v1.0.0",
+      "file": "MagProc-1.0.0-win64.zip",
+      "size": 126121472,
+      "sha256": "fa09da7c9184769e0052d8d216dee5bf73ac49243105d5e3ff006040829cd121",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
