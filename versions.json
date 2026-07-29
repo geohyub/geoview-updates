@@ -384,6 +384,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "GTProc": {
+      "latest": "v1.0.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/GTProc-releases/releases/tag/v1.0.0",
+      "file": "GTProc-1.0.0-win64.zip",
+      "size": 85710061,
+      "sha256": "03da72540b06fd41ebb7b172f0ba23fbf6122eb22283fc5e6501f32c1dbf404b",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
