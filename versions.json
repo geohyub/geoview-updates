@@ -492,6 +492,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "Feathering": {
+      "latest": "v3.13.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/Feathering-releases/releases/tag/v3.13.0",
+      "file": "Feathering Analysis_3.13.0_x64-setup.exe",
+      "size": 4607117,
+      "sha256": "63e6f25c4d638608b13592b1b757507d3efd754cd5249f67498574af3d423671",
+      "kind": "installer",
+      "mandatory": false,
+      "history": []
     }
   }
 }
