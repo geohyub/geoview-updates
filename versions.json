@@ -444,6 +444,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "HandoverPackageGenerator": {
+      "latest": "v1.0.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/HandoverPackageGenerator-releases/releases/tag/v1.0.0",
+      "file": "HandoverPackageGenerator-1.0.0-win64.zip",
+      "size": 95702804,
+      "sha256": "9dbdc766d606fd72c79c3a9d87450a1eec3af6c6678db0e16e9399c0192ba378",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
