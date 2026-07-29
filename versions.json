@@ -432,6 +432,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "DataForge": {
+      "latest": "v1.0.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/DataForge-releases/releases/tag/v1.0.0",
+      "file": "DataForge-1.0.0-win64.zip",
+      "size": 72538102,
+      "sha256": "77e15c5d37a41bc0165b4570e95c242c7b179ea60aa3345db19c39c5f259e8b4",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
