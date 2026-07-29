@@ -420,6 +420,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "MagUXO": {
+      "latest": "v0.1.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/MagUXO-releases/releases/tag/v0.1.0",
+      "file": "MagUXO-0.1.0-win64.zip",
+      "size": 74766764,
+      "sha256": "17eb5dfc444998445d4728aa6111ade66e00874e4a486a2940bf80a965bb9dc2",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
