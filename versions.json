@@ -396,6 +396,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "GTPrep": {
+      "latest": "v0.1.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/GTPrep-releases/releases/tag/v0.1.0",
+      "file": "GTPrep-0.1.0-win64.zip",
+      "size": 85721921,
+      "sha256": "c6d94f1344a0950566d27cfe03f9b8a9e82eae7db8c25e4544d39df89f607450",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
