@@ -408,6 +408,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "FusionGrid": {
+      "latest": "v0.1.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/FusionGrid-releases/releases/tag/v0.1.0",
+      "file": "FusionGrid-0.1.0-win64.zip",
+      "size": 74722801,
+      "sha256": "f88e78dbfbec671fa882f88aae3318bf78c82afa658cebd522274585d4d71b2d",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
