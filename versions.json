@@ -468,6 +468,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "ProjectManager": {
+      "latest": "v1.0.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/ProjectManager-releases/releases/tag/v1.0.0",
+      "file": "ProjectManager-1.0.0-win64.zip",
+      "size": 77979765,
+      "sha256": "08a84a79e94a74d0a59edcd5159d317727ca352a461d9ec1c5c7ba16f7bce1d3",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
