@@ -480,6 +480,18 @@
       "kind": "zip",
       "mandatory": false,
       "history": []
+    },
+    "ProcessingReportDraft": {
+      "latest": "v1.0.0",
+      "released": "2026-07-29",
+      "notes": "",
+      "release_url": "https://github.com/geohyub/ProcessingReportDraft-releases/releases/tag/v1.0.0",
+      "file": "ProcessingReportDraft-1.0.0-win64.zip",
+      "size": 81282325,
+      "sha256": "ac425c2af8722edd4d2dee308f5ec118caee013121c640058a88ad1ece82c623",
+      "kind": "zip",
+      "mandatory": false,
+      "history": []
     }
   }
 }
